@@ -32,7 +32,7 @@ upstream transmission rate
   - 10's Mbps
 
 ## Enterprise networks
-- Companies, universities, etc.
+- Companies, universities, and etc.
 - mix of wired, wireless link technologies, connecting a mix of switches and routers
   - **Ethernet**: wired access at 100Mbps, 1Gbps, 10Gbps 
   - **WiFi**: wireless access points at 11, 54, 450 Mbps 
